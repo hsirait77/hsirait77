@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Helmut+Sirait!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=fabd2f&duration=4000&lines=Hi+There!+👋;+I'm+Helmut+Sirait!;" />
 </h1>
 
 ### Front-End Web Developer with a strong eye for detail and a focus on clean code. I bridge the gap between design and functionality to deliver fast, accessible, and beautiful web applications.
@@ -28,7 +28,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,mysql" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,mysql,php" />
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,d3,git,postman,figma" />
 </p>
 
@@ -39,9 +39,10 @@
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=helmutsirait96&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Helmut Sirait GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=helmutsirait96&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Helmut Sriait" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=helmutsirait96&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Helmut's Most Used Languages" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=helmutsirait96&theme=gruvbox&count_private=true&border_radius=10&locale=en" alt="Helmut Sirait" />
+ <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=gruvbox&fontFamily=Source%20Sans%20Pro&preferLogin=false">    <img  alt="helmutsirait96's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/helmutsirait96?cardType=github&theme=gruvbox&fontFamily=Source%20Sans%20Pro&preferLogin=false" />  </a>
+    
 </div>
 
 <hr>
+
