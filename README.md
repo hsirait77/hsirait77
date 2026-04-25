@@ -1,48 +1,58 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=fabd2f&duration=4000&lines=Hi+There!+👋;+I'm+Helmut+Sirait!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=ff75c3&duration=4000&lines=Hi+There!+👋;+I'm+Helmut+Sirait!;from+Indonesia" />
 </h1>
-
-### Front-End Web Developer with a strong eye for detail and a focus on clean code. I bridge the gap between design and functionality to deliver fast, accessible, and beautiful web applications.
-
-- 🌱 I’m currently learning **[FreeCodeCamp](https://www.freecodecamp.org/)**
-
-
-<br>
-
-<div align="center">
-  <a href="helmutsirait77@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/helmutsirait" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://codepen.io/helmutsirait" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
-  </a>
+<div>
+  <img align="right" width="19%" src="https://github.com/helmutsirait96/images/blob/master/Frieren_holding_HTML_and_CSS_book-removebg-preview.png?raw=true">
 </div>
+
+<p align="left"> A <span style="color: #ff75c3; font-weight: bold;">Frontend Web Developer</span> who focuses on creating <span style="color: #ff75c3; font-weight: bold;">interactive, responsive, and user-friendly user interfaces.</span> I really like JavaScript logic and web performance optimization.</p>
+
+✨ Student of life :) \
+🌱 Learn and develop by **[FreeCodeCamp](https://www.freecodecamp.org/)** \
+💪 likes to exercise for inspiration \
+ 💡 learning about Digital Illustration 
+<br>
 
 <hr>
 
-## 🛠️ Languages and Tools
-
+<h3 align="left"> 🛠️ Languages and Tools </h3>
 <br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,mysql,php" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,d3,git,postman,figma" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=sass,jquery,tailwind,bootstrap,react"/> 
+  <img src="https://skillicons.dev/icons?i=figma,photoshop"/>
+  <img src="https://skillicons.dev/icons?i=github,git,gitlab,bitbucket"/>
+  <img src="https://skillicons.dev/icons?i=windows,linux"/>
+  
 </p>
 
 <hr>
 
-## ⚡️ Stats
+<h3 align="left">⚡️ Stats </h3>
 
 <br>
 
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=helmutsirait96&theme=gruvbox&count_private=true&border_radius=10&locale=en" alt="Helmut Sirait" />
- <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=gruvbox&fontFamily=Source%20Sans%20Pro&preferLogin=false">    <img  alt="helmutsirait96's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/helmutsirait96?cardType=github&theme=gruvbox&fontFamily=Source%20Sans%20Pro&preferLogin=false" />  </a>
-    
-</div>
+<div align=left>
 
+![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=helmutsirait96&show_icons=true&theme=radical) \
+![Bahasa yang Paling Banyak Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=helmutsirait96&layout=compact&theme=radical)
+
+</div>
 <hr>
+
+<h3 align="left"> 🚀 Latest Projects <h3>
+
+#### 🛠️ **Smart-Form Security Module**
+*Sistem validasi form yang berfokus pada pengalaman pengguna dan keamanan.*
+* **Fitur Utama:** Integrasi reCAPTCHA otomatis, UI status message 0.5 detik, dan validasi sisi klien.
+* **Tech:** JavaScript (ES6+), CSS3, Google reCAPTCHA API.
+* [Lihat Kode](https://github.com/) | [Demo Live](https://demo.com)
+
+
+
+#### 🎨 **Modern Dashboard UI**
+*Dashboard admin dengan performa tinggi dan desain minimalis.*
+* **Fitur Utama:** Data visualisasi, Dark Mode, dan navigasi dinamis.
+* **Tech:** React.js, Chart.js, Tailwind CSS.
+* [Lihat Kode](https://github.com/) | [Demo Live](https://demo.com)
 
