@@ -15,13 +15,13 @@
 
 <hr>
 
-<h3 align="left"> 🛠️ Languages and Tools </h3>
+<h3 align="left"> 🛠️ Expertise & Technology </h3>
 <br>
 
-* **Bahasa:** HTML5, CSS3, JavaScript (ES6+)
+* **Languages:** HTML5, CSS3, JavaScript (ES6+)
 * **Framework/Library:** React.js, Vue.js, Tailwind CSS
-* **Alat:** Git & GitHub, VS Code, NPM/Vite
-* **Lainnya:** Integrasi API, Web Security (reCAPTCHA), Responsive Design
+* **Tools:** Git & GitHub, VS Code, NPM/Vite
+* **Others:** Integration API, Web Security (reCAPTCHA), Responsive Design
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
   <img src="https://skillicons.dev/icons?i=sass,jquery,tailwind,bootstrap,react"/> 
