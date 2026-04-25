@@ -17,6 +17,11 @@
 
 <h3 align="left"> 🛠️ Languages and Tools </h3>
 <br>
+
+* **Bahasa:** HTML5, CSS3, JavaScript (ES6+)
+* **Framework/Library:** React.js, Vue.js, Tailwind CSS
+* **Alat:** Git & GitHub, VS Code, NPM/Vite
+* **Lainnya:** Integrasi API, Web Security (reCAPTCHA), Responsive Design
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
   <img src="https://skillicons.dev/icons?i=sass,jquery,tailwind,bootstrap,react"/> 
@@ -28,7 +33,7 @@
 
 <hr>
 
-<h3 align="left">⚡️ Stats </h3>
+<h3 align="left">⚡️ GitHub Statistics </h3>
 
 <br>
 
@@ -56,3 +61,18 @@
 * **Tech:** React.js, Chart.js, Tailwind CSS.
 * [Lihat Kode](https://github.com/) | [Demo Live](https://demo.com)
 
+<br>
+<hr>
+
+<h3> 📫 Let's Connect! </h3>
+
+* **LinkedIn:** [linkedin.com/in/helmutsirait](https://linkedin.com/in/helmutsirait)
+* **Portofolio:** [helmutsirait96.github.io](https://helmutsirait96.github.io)
+* **Email:** [helmutsirait77@gmail.com]
+
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
