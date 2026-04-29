@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=ff75c3&duration=4000&lines=Hi+There!+👋;+I'm+Helmut+Sirait!;from+Indonesia" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=ff75c3&duration=4000&lines=Hi+There!+👋;+I'm+Helmut+Sirait!" />
 </h1>
 
-<p align="center"> A <span style="color: #ff75c3; font-weight: bold;">Frontend Web Developer</span> who focuses on creating <span style="color: #ff75c3; font-weight: bold;">interactive, responsive, and user-friendly user interfaces.</span> I really like JavaScript logic and web performance optimization.</p>
+<p align="center" >A Frontend Web Developer</span> who focuses on creating interactive, responsive, and user-friendly user interfaces.</span> I really like JavaScript logic and web performance optimization.</p>
 
 ✨ Student of life :) \
 🌱 Learn and develop by **[FreeCodeCamp](https://www.freecodecamp.org/)** \
