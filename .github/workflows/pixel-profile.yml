@@ -22,7 +22,7 @@ jobs:
 
     steps:
       - name: generate github stats card
-        uses: LuciNyan/pixel-profile/action@main
+        uses: helmutsirait96/pixel-profile/action@main
         with:
           outputs: |
             dist/github-stats?username=helmutsirait96&screen_effect=false&theme=fuji&dithering=true&hide=avatar
