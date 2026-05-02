@@ -3,7 +3,7 @@
 </h1> -->
  <img src="https://github.com/helmutsirait96/images/blob/master/Banner.png?raw=true" />
 
-<p align="center">A Frontend Web Developer</span> who focuses on creating interactive, responsive, and user-friendly user interfaces.</span> I really like JavaScript logic and web performance optimization.</p>
+<p align="left">A Frontend Web Developer</span> who focuses on creating interactive, responsive, and user-friendly user interfaces.</span> I really like JavaScript logic and web performance optimization.</p>
 
 
 ✨ Student of life :) \
@@ -14,20 +14,10 @@
 
 <h3 align="left"> 🛠️ Expertise & Technology </h3>
 <br>
-
-* **Languages:** HTML5, CSS3, JavaScript (ES6+),MySql, PHP
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
-
-* **Framework/Library:** React.js, Vue.js, Tailwind CSS
 <img src="https://skillicons.dev/icons?i=sass,jquery,tailwind,bootstrap,react"/>
-
-* **Framework/Design:** Figma, Photoshop
 <img src="https://skillicons.dev/icons?i=figma,photoshop"/>
-
-* **Tools:** Git & GitHub, VS Code, Gitlab, BitBucket, Sublime, VSCode
 <img src="https://skillicons.dev/icons?i=github,git,gitlab,bitbucket,sublime,vscode"/>
-
-* **Others:** Integration API, Web Security (reCAPTCHA), Responsive Design
 <hr>
 <h3 align="left">⚡️ GitHub Statistics </h3>
 <br>
