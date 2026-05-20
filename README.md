@@ -1,35 +1,16 @@
-<!-- <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=ff75c3&duration=4000&lines=Hi+There!+👋;+I'm+Helmut+Sirait!" />
-</h1> -->
- <img src="https://github.com/helmutsirait96/images/blob/master/Banner.png?raw=true" />
+<h1 align="center">Hi 👋, I'm Helmut Sirait</h1>
+<h2 align="center">Frontend Web Developer</h2>
 
-<p align="left">A Frontend Web Developer</span> who focuses on creating interactive, responsive, and user-friendly user interfaces.</span> I really like JavaScript logic and web performance optimization.</p>
-
-
-✨ Student of life :) \
-🏗️ Currently building a web foundation through curriculum [FreeCodeCamp](https://www.freecodecamp.org/) \
-💪 Building a better version of myself, one commit at a time. \
-💡  Coding with logic, drawing with heart
+- ✨ Student of life :) 
+- 🏗️ Currently building a web foundation through curriculum [FreeCodeCamp](https://www.freecodecamp.org/)
+- 💪 Building a better version of myself, one commit at a time. 
+- 💡  Coding with logic, drawing with heart
 <hr>
 
-<h3 align="left"> 🛠️ Expertise & Technology </h3>
+<h3 align="left"> 🛠️ Languages and Tools</h3>
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
-<img src="https://skillicons.dev/icons?i=sass,jquery,tailwind,bootstrap,react"/>
-<img src="https://skillicons.dev/icons?i=figma,photoshop"/>
-<img src="https://skillicons.dev/icons?i=github,git,gitlab,bitbucket,sublime,vscode"/>
-<hr>
-<h3 align="left">⚡️ GitHub Statistics </h3>
-<br>
-
-<div align=left>
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/helmutsirait96?cardType=github&theme=radical&fontFamily=BlinkMacSystemFont&preferLogin=true)](https://git.io/awesome-stats-card)
-<br>
-<br>
-
-
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,sass,jquery,tailwind,bootstrap,react" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop,github,git,gitlab,bitbucket,sublime,vscode"/>
 <hr>
 
 <h3 align="left"> 🚀 Latest Projects <h3>
