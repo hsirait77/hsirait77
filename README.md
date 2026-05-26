@@ -31,7 +31,7 @@ A passionate developer who loves building clean, user-friendly web applications.
 
 ## 📫 Let's Connect!
 
-[🌐 Portfolio](https://hsirait77.github.com) • [💼 LinkedIn](https://linkedin.com/in/helmutsirait77) • [🐦 Twitter](https://twitter.com/helmutsirait)
+[🌐 Portfolio](https://hsirait77.github.io) • [💼 LinkedIn](https://linkedin.com/in/helmutsirait77) • [🐦 Twitter](https://twitter.com/helmutsirait)
 
 
 
