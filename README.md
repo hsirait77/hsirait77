@@ -33,10 +33,10 @@ A passionate developer who loves building clean, user-friendly web applications.
 
 | Platform | Link |
 | :--- | :--- |
-| **📧 Email** | [helmutsirait77@gmail.com](mailto:helmutsirait77@gmail.com) |
-| **💼 LinkedIn** | [hsirait77](https://linkedin.com/in/hsirait77) |
+| **📧 Email** | [helmutsirait77@gmail.com](mailto:helmutsirait99@gmail.com) |
+| **💼 LinkedIn** | [hsirait77](https://linkedin.com/in/helmutsirait) |
 | **🖥️ Portfolio** | [hsirait77.github.io](https://hsirait77.github.io) |
-| **🐦 X** | [helmutsirait](https://x.com/helmutsirait) |
+| **🐦 X** | [helmutsirait](https://x.com/helmutsirait77) |
 
 
 
