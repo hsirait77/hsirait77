@@ -1,7 +1,7 @@
 
 # Hi there, I'm Helmut Sirait 👋
 
-A passionate developer who loves building clean, user-friendly web applications. Currently focusing on modern JavaScript frameworks and refining user experiences.
+Front-End Web Developer | Crafting clean code and responsive UI. JavaScript enthusiast. 🚀
 
 ## 🛠️ Tech Stack
 
